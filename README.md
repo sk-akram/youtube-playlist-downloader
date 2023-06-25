@@ -8,7 +8,7 @@ install chromedriver.exe
 ## step 3: 
 get the chrome application path
 ## step 4: 
-open cmd and run chrome.exe --remote-debugging-port=8080
+open cmd and cd to the chrome.exe and run chrome.exe --remote-debugging-port=8080
 note- you can change the port no
 ## step 5: 
 replace the video playlist then run the videos_scrapper.py file
